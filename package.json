@@ -8,7 +8,7 @@
     "url": "git+https://github.com/yongchanson/wetube-reloaded.git"
   },
   "scripts": {
-    "start": "node init.js",
+    "start": "node build/init.js",
   
     "build:server": "babel src -d build",
  
