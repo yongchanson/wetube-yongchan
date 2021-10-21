@@ -23,6 +23,7 @@
   "homepage": "https://github.com/yongchanson/wetube-reloaded#readme",
   "dependencies": {
     "@babel/runtime": "^7.15.4",
+    "@mars/heroku-js-runtime-env": "^3.0.2",
     "babel-polyfill": "^6.26.0",
     "bcrypt": "^5.0.1",
     "connect-mongo": "^4.5.0",
