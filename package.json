@@ -4,7 +4,7 @@
   "description": "The best way to watch videos.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yongchanson/wetube-reloaded.git"
+    "url": "git+https://github.com/yongchanson/wetube-yongchan.git"
   },
   "scripts": {
     "start": "node build/init.js",
@@ -17,9 +17,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yongchanson/wetube-reloaded/issues"
+    "url": "https://github.com/yongchanson/wetube-yongchan/issues"
   },
-  "homepage": "https://github.com/yongchanson/wetube-reloaded#readme",
+  "homepage": "https://github.com/yongchanson/wetube-yongchan#readme",
   "dependencies": {
     "@babel/runtime": "^7.15.4",
     "@mars/heroku-js-runtime-env": "^3.0.2",
