@@ -2,10 +2,9 @@
 
 var _mongoose = _interopRequireDefault(require("mongoose"));
 
-var _authProvider = _interopRequireDefault(require("./authProvider"));
-
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
+// import authProvider from './authProvider';
 _mongoose["default"].connect(process.env.DB_URL, {
   useNewUrlParser: true,
   useUnifiedTopology: true // useFindAndModify: false,
