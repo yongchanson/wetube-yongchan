@@ -1,0 +1,24 @@
+
+// app.listen(PORT, function(){
+//     console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
+//   });
+
+//https://wetube-yongchan.herokuapp.com/
+
+//tc1iofCbUMBVNChx
+//mongodb+srv://yongchan:tc1iofCbUMBVNChx@cluster0.ybfcy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+//9RL8DulupnQr6jQQ
+//mongodb+srv://yongchan:9RL8DulupnQr6jQQ@cluster0.1mm3h.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+// "mongodb+srv://<user>:<password>@<cluster-url>?retryWrites=true&writeConcern=majority";
+
+// JS_RUNTIME_TARGET_BUNDLE
+// /app/src/client/js/*.js
+
+//heroku login
+//heroku git:remote -a wetube-yongchan
+
+// cd C:\Users\Default\Documents\wetube
+
+// heroku run bash
+// npm start

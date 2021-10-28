@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import authProvider from './authProvider';
 
 mongoose.connect(process.env.DB_URL, {
   useNewUrlParser: true,

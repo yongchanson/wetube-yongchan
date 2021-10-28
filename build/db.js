@@ -6,9 +6,9 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "d
 
 _mongoose["default"].connect(process.env.DB_URL, {
   useNewUrlParser: true,
-  useUnifiedTopology: true,
-  useFindAndModify: false,
-  useCreateIndex: true
+  useUnifiedTopology: true // useFindAndModify: false,
+  // useCreateIndex: true,
+
 });
 
 var db = _mongoose["default"].connection;
