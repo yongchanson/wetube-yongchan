@@ -50,7 +50,7 @@ export default app;
 //데이터삭제
 // cmd > mongo > use wetube > db.videos.remove({})
 //                                 session, users
-
+//
 //db.users.find({})  모든user확인
 
 
