@@ -1,6 +1,6 @@
-import Video from "../model/Video";
-import User from "../model/User";
-import Comment from "../model/Comment";
+import Video from "../models/Video";
+import User from "../models/User";
+import Comment from "../models/Comment";
 export const home = async(req, res) => {
     try {
         const videos =  await Video.find({}).sort({ createdAt : "desc"})
